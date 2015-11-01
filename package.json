@@ -1,0 +1,19 @@
+{
+  "name": "tuscomics",
+  "version": "1.0.0",
+  "description": "Comics y memes en español",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nathaliesicard/tuscomics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathaliesicard/tuscomics/issues"
+  },
+  "homepage": "https://github.com/nathaliesicard/tuscomics"
+}
